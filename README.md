@@ -1,8 +1,7 @@
 ### EXP NO: 04
-
-### 
-
+### Date: 15.10.2022,
 # <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
+
 ## AIM
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
@@ -10,8 +9,33 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 ## Problem Statement and Dataset
 Malaria dataset of 27,558 cell images with an equal number of parasitized and uninfected cells. A level-set based algorithm was applied to detect and segment the red blood cells. The images were collected and annotated by medical professionals.Here we build a convolutional neural network model that is able to classify the cells.
 
-
 ![Screenshot (441)](https://user-images.githubusercontent.com/75243072/193461007-0ba8cd13-be7b-41b9-8eb6-1058406658f6.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Neural Network Model
 
@@ -159,11 +183,36 @@ else:
 ![Screenshot (435)](https://user-images.githubusercontent.com/75243072/193250270-08a6b329-3663-421f-9584-dc785d471b3b.png)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Classification Report
 ![Screenshot (438)](https://user-images.githubusercontent.com/75243072/193250332-c7bbec86-6dd1-4514-9216-921ee6ac437a.png)
 
 ![Screenshot (436)](https://user-images.githubusercontent.com/75243072/193250385-e5bace63-44b8-4c01-8e1a-2a334db8702e.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### New Sample Data Prediction
 
